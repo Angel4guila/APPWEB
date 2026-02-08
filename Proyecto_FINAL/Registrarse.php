@@ -75,7 +75,7 @@ https://www.tooplate.com/view/2121-wave-cafe
 	                <div class="tm-form-group">
 	                  <?PHP $tipo = 1; echo "<input type='hidden' name='tipo' value='$tipo'>"; ?>
 	                  <input type="password" name="password" class="tm-form-control" placeholder="Contraseña" required="" />        
-	                <div><br>
+	                </div><br>
 	                  <button type="submit" class="tm-btn-primary tm-align-right">
 	                    Registrarse
 	                  </button>
@@ -281,3 +281,4 @@ https://www.tooplate.com/view/2121-wave-cafe
 	</body>
 
 </html>
+
